@@ -28,7 +28,7 @@ A Kickstater campaign will start end of 2020 !
 
 It's up to you now !
 ***
-Screenshoot
+Controller Screenshoot
 ***
 Main Screen
 
@@ -53,3 +53,11 @@ Tool Offset
 Work coordinates Offset
 
 ![GitHub Logo](https://github.com/technosar/media/blob/master/WorkOffset.png)
+
+***
+PLC Screenshoot
+***
+
+Lua PLC debugger
+
+![GitHub Logo](https://github.com/technosar/media/blob/master/Lua_PLC.png)
