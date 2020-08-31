@@ -7,6 +7,7 @@
 ``` 
 New features :
   - powerfull 2/4 cores ARM processor (depending of your application)
+  - 3.5" color LCD
   - compatible with GRBL controller and more
   - support ATC (automatic tool change)
   - support tool sensor
