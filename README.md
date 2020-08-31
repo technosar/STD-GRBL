@@ -13,7 +13,7 @@ New features :
   - ethernet connection for debugging, file transfert and configuration
   - camera support (uEye GigaEthernet camera)
   - camera fiductial detection, rotation and translation correction
-  - support la GCode file
+  - support large GCode file
   - 2D Gcode graph simulation
   - and more to come ....
 ``` 
