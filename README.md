@@ -1,4 +1,4 @@
-![GitHub Logo](https://github.com/technosar/media/blob/master/pub1.png)
+![GitHub Logo](https://github.com/technosar/media/blob/master/zepto1.png)
 ***
 
 ### Standalone GRBL contoller has been released !
