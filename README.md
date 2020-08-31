@@ -6,6 +6,7 @@
 ***
 ``` 
 New features :
+  - powerfull 2/4 cores ARM processor (depending of your application)
   - compatible with GRBL controller and more
   - support ATC (automatic tool change)
   - support tool sensor
@@ -15,6 +16,7 @@ New features :
   - camera fiductial detection, rotation and translation correction
   - support large GCode file
   - 2D Gcode graph simulation
+  - encoder to move axis, or change parameters
   - and more to come ....
 ``` 
 
