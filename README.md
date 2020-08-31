@@ -41,3 +41,7 @@ Tool Setter configuration
 Main Menu
 
 ![GitHub Logo](https://github.com/technosar/media/blob/master/MainMenu.png)
+
+Camera Setup
+
+![GitHub Logo](https://github.com/technosar/media/blob/master/CamSetup.png)
