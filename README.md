@@ -20,7 +20,7 @@ New features :
 
 The prototype is now working fine.
 You can contact us at contact@technosar.com to have more informations.
-A Kicstater campaign will start end of 2020 !
+A Kickstater campaign will start end of 2020 !
 
 It's up to you now !
 ***
