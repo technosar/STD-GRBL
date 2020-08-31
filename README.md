@@ -14,9 +14,10 @@ New features :
   - ethernet connection for debugging, file transfert and configuration
   - camera support (uEye GigaEthernet camera)
   - camera fiductial detection, rotation and translation correction
-  - support large GCode file
+  - support large GCode files
   - 2D Gcode graph simulation
   - encoder to move axis, or change parameters
+  - SD card to store GCode files, confiuration, PLC program, updates
   - and more to come ....
 ``` 
 
