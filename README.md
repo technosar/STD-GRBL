@@ -1,7 +1,7 @@
 ![GitHub Logo](https://github.com/technosar/media/blob/master/pub1.png)
 ***
 
-### Grbl v1.1 STM32F7 has been released !
+### Standalone GRBL contoller has been released !
 
 ***
 ``` 
