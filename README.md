@@ -56,7 +56,7 @@ Work coordinates Offset
 
 2D Gcode viewer
 
-![GitHub Logo](https://github.com/technosar/media/blob/master/ViewGCode.png)
+![GitHub Logo](https://github.com/technosar/media/blob/master/ViewGcode.png)
 
 ***
 PLC Screenshoot
