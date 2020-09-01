@@ -65,3 +65,8 @@ PLC Screenshoot
 Lua PLC debugger
 
 ![GitHub Logo](https://github.com/technosar/media/blob/master/Lua_PLC.png)
+
+Lua Main Function
+This is the main thread of the PLC controller. You can write in this function your own code, read inputs, manage ouputs , .... in real time.
+
+![GitHub Logo](https://github.com/technosar/media/blob/master/LuaMain.png)
