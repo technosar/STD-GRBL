@@ -34,6 +34,18 @@ Main Screen
 
 ![GitHub Logo](https://github.com/technosar/media/blob/master/MainScreen.png)
 
+Main Screen to manage real time feedrate overide
+
+![GitHub Logo](https://github.com/technosar/media/blob/master/MainScreen2.png)
+
+Main Screen to manage real time spindle speed overide
+
+![GitHub Logo](https://github.com/technosar/media/blob/master/MainScreen3.png)
+
+Main Screen to manage real time encoder button (move all axis or change values)
+
+![GitHub Logo](https://github.com/technosar/media/blob/master/MainScreen4.png)
+
 Tool Setter configuration
 
 ![GitHub Logo](https://github.com/technosar/media/blob/master/ToolSetter.png)
@@ -67,6 +79,7 @@ Lua PLC debugger
 ![GitHub Logo](https://github.com/technosar/media/blob/master/Lua_PLC.png)
 
 Lua Main Function
+
 This is the main thread of the PLC controller. You can write in this function your own code, read inputs, manage ouputs , .... in real time.
 
 ![GitHub Logo](https://github.com/technosar/media/blob/master/LuaMain.png)
