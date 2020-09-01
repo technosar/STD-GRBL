@@ -71,7 +71,7 @@ Work coordinates Offset
 ![GitHub Logo](https://github.com/technosar/media/blob/master/ViewGcode.png)
 
 ***
-PLC Screenshoot
+**PLC Screenshoot**
 ***
 
 Lua PLC debugger
