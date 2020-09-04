@@ -27,6 +27,19 @@ You can contact us at contact@technosar.com to have more informations.
 A Kickstater campaign will start end of 2020 !
 
 It's up to you now !
+
+***
+**Configuration**
+***
+
+Arduino GRBL controller
+
+![GitHub Logo](https://github.com/technosar/media/blob/master/conf1.png)
+
+ZEPTO GRBL controller
+
+![GitHub Logo](https://github.com/technosar/media/blob/master/conf2.png)
+
 ***
 **Controller Screenshoot**
 ***
