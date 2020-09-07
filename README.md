@@ -18,7 +18,7 @@ New features :
   - support large GCode files
   - 2D Gcode graph simulation
   - encoder to move axis, or change parameters
-  - SD card to store GCode files, confiuration, PLC program, updates
+  - SD card to store GCode files, configuration, PLC program, updates
   - and more to come ....
 ``` 
 
