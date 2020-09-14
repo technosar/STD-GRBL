@@ -98,5 +98,5 @@ This is the main thread of the PLC controller. You can write in this function yo
 ![GitHub Logo](https://github.com/technosar/media/blob/master/LuaMain.png)
 
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S6AXAY6P7GNJC)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S6AXAY6P7GNJC&currency_code=EUR&source=url)
 
