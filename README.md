@@ -97,7 +97,7 @@ This is the main thread of the PLC controller. You can write in this function yo
 
 ![GitHub Logo](https://github.com/technosar/media/blob/master/LuaMain.png)
 
-{{< rawhtml >}}
+```html
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations" />
 <input type="hidden" name="business" value="S6AXAY6P7GNJC" />
@@ -105,5 +105,5 @@ This is the main thread of the PLC controller. You can write in this function yo
 <input type="image" src="https://www.paypalobjects.com/en_US/FR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_FR/i/scr/pixel.gif" width="1" height="1" />
 </form>
-{{< /rawhtml >}}
+```
 
